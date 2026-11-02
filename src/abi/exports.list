@@ -1,0 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (c) 2026 Guangzhou Songzi Intelligent Technology Services Co., Ltd.
+# The only exported symbols: the C ABI.
+_spk_*
